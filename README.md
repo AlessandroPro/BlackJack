@@ -1,15 +1,11 @@
 Alessandro Profenna
 Sept. 8, 2019
-PROG50016 - Lab #1
 
 This BlackJack game was created using VisualStudio 2019 and C++.
 Open the BlackJack.sln file to open the project and compile it there.
-The executable is already included, just in case.
-
 
 Rules for my implementation of BlackJack:
 
-/*
 Welcome to BlackJack!
 This is a command line version of the game.
 Only one player (the user) vs the dealer.
@@ -37,4 +33,6 @@ You can only split once, with a maximum of two player hands.
 When the player finishes manipulating each of their hands, the scores are calculated for each 
 player hand vs the dealer's hand to see which hands win.
 
-*/
+Screenshot:
+
+![Screenshot](https://user-images.githubusercontent.com/15040875/72185115-122e8f00-33c0-11ea-8bdb-e2ff94a59bbc.PNG)
